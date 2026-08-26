@@ -62,7 +62,7 @@ Cria a `TarefaViewModel` usando `viewModel(factory = TarefaViewModel.factory(app
 
 ## Evidências
 
-As evidências de execução (tela de listagem, cadastro, edição, conclusão, exclusão, navegação e build sem erros) estão disponíveis em [`docs/evidencias`](docs/evidencias).
+As evidências de execução (tela de listagem, cadastro, edição, conclusão, exclusão, navegação e build sem erros).
 
 <img width="232" height="525" alt="image" src="https://github.com/user-attachments/assets/56e5081c-6160-4589-a03c-a68d01e81ac0" />
 <img width="241" height="531" alt="image" src="https://github.com/user-attachments/assets/b58694f9-f8ac-4b9b-93f1-657b1c409ab0" />
